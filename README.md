@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=💻Welcome!&fontAlign=70&fontColor=40e0d0)
 
-## 🛠️ Tech Stack 🛠️
-
+# 🛠️ Tech Stack 🛠️
 ### Languages & FrameWork
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
@@ -16,7 +15,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp
 </p>
 
-## Social
+# Social
 <p>
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Tistory-02303A?style=flat-square&logo=Tistory&logoColor=white"/></a>&nbsp
