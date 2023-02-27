@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Notion-02303A?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
 </p>
 
-https://github-readme-stats.vercel.app/api?username={Ojongseok}&hide={hidecontents}
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ojongseok)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
