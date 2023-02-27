@@ -19,6 +19,8 @@
 # ✉️ Social ✉️
 <p>
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp
-  <a href="https://develop-oj.tistory.com"><img src="https://img.shields.io/badge/Tistory-02303A?style=flat-square&logo=Tistory&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Notion-02303A?style=flat-square&logo=Notion&logoColor=white"/>&nbsp
+  <a href="https://develop-oj.tistory.com">
+    <img src="https://img.shields.io/badge/Tistory-02303A?style=flat-square&logo=Tistory&logoColor=white"/></a>&nbsp
+  <a href="https://www.notion.so/Oh_Jong_Seok-044e02297635493685b15ad09b572572?pvs=4">
+    <img src="https://img.shields.io/badge/Notion-02303A?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
 </p>
