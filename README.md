@@ -3,7 +3,7 @@
 <br>
 <br>
 
-<h1>🛠️ Tech Stack 🛠️</h1>
+#🛠️ Tech Stack 🛠️
 
 <h3>Languages & FrameWork</h3>
 <p>
