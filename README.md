@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=JongSeok's ReadMe&fontAlign=70&fontColor=40e0d0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=JongSeok'sReadMe&fontAlign=70&fontColor=40e0d0)
 
 # 🛠️ Tech Stack 🛠️
 
