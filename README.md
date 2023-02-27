@@ -18,17 +18,11 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ojongseok)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdtjr6889)](https://solved.ac/whdtjr6889/)
 
 
 
-# Contacts 
+# ✉️Contacts 
 <p>
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp
   <a href="https://develop-oj.tistory.com">
