@@ -25,6 +25,11 @@
     <img src="https://img.shields.io/badge/Notion-02303A?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
 </p>
 
+https://github-readme-stats.vercel.app/api?username={username}&hide={hidecontents}
+
+
+
+
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdtjr6889)](https://solved.ac/whdtjr6889/)
