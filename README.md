@@ -1,11 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=💻Welcome!&fontAlign=70&fontColor=40e0d0)
 
 <br>
-<br>
 
 # 🛠️ Tech Stack 🛠️
 
-<h3>Languages & FrameWork</h3>
+### Languages & FrameWork
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
