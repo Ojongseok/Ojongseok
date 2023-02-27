@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=JongSeok's&nbsp;Git&fontAlign=60&fontColor=40e0d0)
 
-# 🛠️ Tech Stack 🛠️
-
+# 🛠️ Tech Stack 
 ### Languages & FrameWork
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp
@@ -16,13 +15,13 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>&nbsp
 </p>
 
-
+[![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ojongseok)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdtjr6889)](https://solved.ac/whdtjr6889/)
 
 
 
-# ✉️Contacts 
+# ✉️ Contacts 
 <p>
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp
   <a href="https://develop-oj.tistory.com">
