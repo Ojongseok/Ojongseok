@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=💻Welcome!&fontAlign=70&fontColor=40e0d0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=JongSeok's ReadMe&fontAlign=70&fontColor=40e0d0)
 
 # 🛠️ Tech Stack 🛠️
 
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>&nbsp
 </p>
 
-# ✉️ Social ✉️
+### Social 
 <p>
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp
   <a href="https://develop-oj.tistory.com">
