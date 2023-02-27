@@ -24,3 +24,7 @@
   <a href="https://www.notion.so/Oh_Jong_Seok-044e02297635493685b15ad09b572572?pvs=4">
     <img src="https://img.shields.io/badge/Notion-02303A?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
 </p>
+
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdtjr6889)](https://solved.ac/whdtjr6889/)
