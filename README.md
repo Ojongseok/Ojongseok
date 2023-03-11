@@ -1,7 +1,12 @@
 ## 👨🏻‍💻 About Me
-* ✉️ E-Mail : whdtjr6889@naver.com
-* 📔 Blog : https://develop-oj.tistory.com
-* 📝 Notion : https://www.notion.so/Oh_Jong_Seok-044e02297635493685b15ad09b572572?pvs=4
+### Android FrontEnd Developer
+* 안드로이드 모바일 앱 개발자를 꿈꾸는 4-1 재학생입니다.   
+*        
+*         
+
+✉️ E-Mail : whdtjr6889@naver.com   
+📔 Blog : https://develop-oj.tistory.com   
+📝 Notion : https://www.notion.so/Oh_Jong_Seok-044e02297635493685b15ad09b572572?pvs=4   
 
 
 ## 🛠️ Tech Stack 
