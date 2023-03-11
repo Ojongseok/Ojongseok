@@ -1,5 +1,5 @@
 ## 👨🏻‍💻 About Me
-### Android FrontEnd Developer
+### Android FrontEnd Developer (진)
 * 안드로이드 모바일 앱 개발자를 꿈꾸는 4-1 재학생입니다.   
 * 새롭고 낯선 것에 대해 두려워하지 않고 늘 배우는 자세로 받아들입니다.
 * 최근에는 기록하는 습관을 가지기 위해 공부하는 내용을 정리하며 Github 관리, 기술블로그를 운영하고 있습니다.
