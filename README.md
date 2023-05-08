@@ -3,8 +3,7 @@
 
 ✉️ E-Mail : whdtjr6889@naver.com   
 📔 Blog : https://develop-oj.tistory.com   
-📝 Notion : https://www.notion.so/Oh_Jong_Seok-044e02297635493685b15ad09b572572?pvs=4   
-
+📝 Notion : www.notion.so/cyber-stetson-d27   
 
 ## 🛠️ Tech Stack 
 ### Main Languages & FrameWork
