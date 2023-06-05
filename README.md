@@ -1,5 +1,5 @@
 ## 👨🏻‍💻 About Me
-### Android FrontEnd Developer (진)
+### Android Mobile Developer
 
 ✉️ E-Mail : whdtjr6889@naver.com   
 📔 Blog : https://develop-oj.tistory.com   
