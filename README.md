@@ -1,5 +1,5 @@
 ## 👨🏻‍💻 About Me
-### Android Mobile Developer
+### Android Developer
 
 ✉️ E-Mail : whdtjr6889@naver.com   
 📔 Blog : https://develop-oj.tistory.com   
