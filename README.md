@@ -34,13 +34,13 @@
 ```Kotlin```, ```MVVM```, ```AAC```, ```SAA```, ```JetPack```, ```Coroutine```, ```Repository```, ```Retrofit```, ```Glide```, ```Coil```, ```LiveData```, ```ViewModel```, ```Navigation```, ```DataBinding```, ```Room```, ```DataStore```, ```Flow```, ```Hilt```
 
 ## 🏆 Contest & Activity
-- [2018] 제 5회 세종대학교 SW 경시대회 **5등**
+- [2018] 제 5회 세종대학교 SW 경시대회 ```5등```
 - [2022] 세종대학교 컴퓨터공학과 학술제 출품
-- [2022] 한국관광공사 관광데이터 활용 공모전 **우수상**
-- [2023] 세종대학교 앱 개발 중앙동아리 ‘아롬’ 안드로이드 **멘토**
-- [2023-1] 세종대학교 캡스톤디자인 : 창의설계경진대회 **대상**
-- [2023.06 ~ 2023.08] 버브컴퍼니 ICT **하계 인턴십**
-- [2023-2] IT경영학회 **큐시즘** 28기 안드로이드 개발팀
+- [2022] 한국관광공사 관광데이터 활용 공모전 ```우수상```
+- [2023] 세종대학교 앱 개발 중앙동아리 '아롬' 안드로이드 멘토
+- [2023-1] 세종대학교 캡스톤디자인 : 창의설계경진대회 ```대상```
+- [2023.06 ~ 2023.08] 버브컴퍼니 ICT ```하계 인턴십```
+- [2023-2] IT경영학회 '큐시즘' 28기 안드로이드 개발팀
 
 ## 💡 Stats
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOjongseok&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
