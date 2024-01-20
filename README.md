@@ -22,13 +22,6 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>&nbsp
 </p>
 
-### Tools
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/>&nbsp
-</p>
-
 ### Android Tech
 ```Kotlin```, ```Compose```, ```MVVM```, ```Clean Architecture```, ```AAC```, ```SAA```, ```Coroutine```, ```Repository```, ```Retrofit```, ```OkHttp```, ```Glide```, ```Coil```, ```LiveData```, ```Flow```, ```ViewModel```, ```Navigation```, ```DataBinding```, ```Room```, ```DataStore```, ```Hilt```
 
