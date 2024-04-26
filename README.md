@@ -16,7 +16,6 @@
 - [2023.10] IT경영학회 큐시즘 28기 해커톤 ```우수상```
 - [2023.10 ~ 2023.11] IT경영학회 큐시즘 밋업데이 프로젝트 ```최우수상```
 - [2023.09 ~ 2023.12] IT경영학회 큐시즘 28기 안드로이드 개발팀
-- [2023.12 ~ 현재] TellingUs: TellingMe 안드로이드 앱 신규 개발 
 
 ## 💡 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ojongseok&show_icons=true&theme=merko)
