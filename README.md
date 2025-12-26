@@ -1,9 +1,6 @@
 ## 👨🏻‍💻 About Me
 ### Android Developer
 
-✉️ E-Mail : whdtjr6889@naver.com   
-📔 Blog : https://develop-oj.tistory.com   
-
 ## 🏆 Award & Experience
 - [2018.12] 제 5회 세종대학교 SW 경시대회 ```5등```
 - [2022.10] 한국관광공사 관광데이터 활용 공모전 ```우수상```
@@ -12,3 +9,7 @@
 - [2023.06 ~ 2023.08] 버브컴퍼니 ICT 하계 인턴십
 - [2023.10 ~ 2023.11] IT경영학회 큐시즘 밋업데이 프로젝트 ```최우수상```
 - [2023.09 ~ 2023.12] IT경영학회 큐시즘 28기 안드로이드 개발팀
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{ojongseok}?pet-id=1" width="1000" height="120"/>
+</a>
