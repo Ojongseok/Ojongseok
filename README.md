@@ -11,5 +11,5 @@
 - [2023.09 ~ 2023.12] IT경영학회 큐시즘 28기 안드로이드 개발팀
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{ojongseok}?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/{ojongseok}?pet-id=1" width="1000" height="300"/>
 </a>
